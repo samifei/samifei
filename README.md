@@ -1,7 +1,11 @@
-👋  Hi, I'm Sam /n
+👋  Hi, I'm Sam 
+
 👀  I am interested in iOS and software product design...
+
 🌱  I am currently studying software product design...
+
 💞 I hope to cooperate...
+
 📫  How to contact me, email: samlfei@163.com
 
 <!---
